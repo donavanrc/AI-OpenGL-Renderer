@@ -1,6 +1,6 @@
 # AI OpenGL Renderer
 
-This is a simple C++ and OpenGL project using CMake that renders a triangle in a framebuffer (g-buffer) and applies post-processing effects such as chromatic aberration, vignette, and animated vortex. 99% made by AI using GitHub Copilot with ChatGPT 4.
+This is a simple C++ and OpenGL project using CMake that renders a triangle in a framebuffer (g-buffer) and applies post-processing effects such as chromatic aberration, vignette, and animated vortex. 99% made by AI using GitHub Copilot with ChatGPT 4o.
 
 ![Screenshot](./screenshots/AI-OpenGL-Renderer.png)
 
