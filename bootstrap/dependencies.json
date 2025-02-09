@@ -1,0 +1,20 @@
+{
+    "dependencies": [
+        {
+            "name": "glfw",
+            "url": "https://github.com/glfw/glfw.git"
+        },
+        {
+            "name": "glad",
+            "url": "https://github.com/donavanrc/glad.git"
+        },
+        {
+            "name": "glm",
+            "url": "https://github.com/g-truc/glm.git"
+        },
+        {
+            "name": "stb",
+            "url": "https://github.com/nothings/stb.git"
+        }
+    ]
+}
